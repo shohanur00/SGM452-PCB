@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=CN1-1
+Removed Pin From Net: NetName=VCC Pin=CN1-2
+Added Component: Designator=CN1(CN_4Pole_2.54_Rightangle_Header)
+Added Component: Designator=CN2(CN_Ø1.25mm_Lead)
+Added Pin To Net: NetName=VCC Pin=CN1-1
+Added Pin To Net: NetName=GND Pin=CN1-2
+Added Pin To Net: NetName=SDA Pin=CN1-3
+Added Pin To Net: NetName=SCL Pin=CN1-4
+Added Pin To Net: NetName=OS Pin=CN2-1
+Added Member To Class: ClassName=Design Member=Component CN2 1P
+Added Room: Name=Design

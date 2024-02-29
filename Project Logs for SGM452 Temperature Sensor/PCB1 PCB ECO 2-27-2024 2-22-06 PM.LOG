@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=10K NewDesignator=R2
+Change Component Designator: OldDesignator=10K NewDesignator=R3
+Change Component Designator: OldDesignator=22u NewDesignator=C2
+Change Component Designator: OldDesignator=47K NewDesignator=R1
+Change Component Designator: OldDesignator=104 NewDesignator=C1
+Change Component Designator: OldDesignator=OS NewDesignator=CN2
+Change Component Designator: OldDesignator=TEMP NewDesignator=SGM1
+Change Component Designator: OldDesignator=VCC GND SDA SCL NewDesignator=CN1
+Added Pin To Net: NetName=GND Pin=SGM1-4
+Added Member To Class: ClassName=Design Member=Component CN1 4P 2mm 180°
+Added Member To Class: ClassName=Design Member=Component R3 10KO
+Added Room: Name=Design

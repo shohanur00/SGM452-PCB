@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=SDA Pin=CN1-3
+Removed Pin From Net: NetName=SCL Pin=CN1-4
+Added Pin To Net: NetName=SCL Pin=CN1-3
+Added Pin To Net: NetName=SDA Pin=CN1-4
+Added Member To Class: ClassName=Design Member=Component R2 10KO
